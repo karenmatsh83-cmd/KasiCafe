@@ -66,6 +66,7 @@ Purpose
 The purpose of this website is to demonstrate the ability to create and connect multiple HTML pages using headings, paragraphs, lists, tables, images and hyperlinks.
 
 Author
+KOKETSO M
 
 Student Web Development Practical
 
